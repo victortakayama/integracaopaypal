@@ -1,0 +1,25 @@
+{
+    "products" : [
+        {
+            "id": "1",
+            "titulo": "Mouse",
+            "descricao": "Um mouse muito bom!",
+            "img": "../images/product1.jpg",
+            "preco": 45
+        },
+        {
+            "id": "2",
+            "titulo": "MousePad",
+            "descricao": "Um mousepad muito bom!",
+            "img": "../images/product2.jpg",
+            "preco": 70
+        },
+        {
+            "id": "3",
+            "titulo": "Kit mouse e mousepad",
+            "descricao": "Um kit muito bom!",
+            "img": "../images/product3.jpg",
+            "preco": 90
+        }
+    ]
+}
