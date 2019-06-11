@@ -18,17 +18,17 @@ Payment server response completed successfully.
 
 "status":"VERIFIED",
 
-"payer_info":{"email":"teste@teste.com.br",
+"payer_info":{"email":"teste@testemts.com.br",
 
 "first_name":"Teste",
 
-"last_name":"Teste",
+"last_name":"Teste MTS",
 
 "payer_id":"ZM32UQ3PFN5ZJ",
 
 "shipping_address":
 
-"recipient_name":"Teste Teste",
+"recipient_name":"Teste Teste MTS",
 
 "line1":"1234 Rua Main",
 
